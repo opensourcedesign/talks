@@ -13,7 +13,6 @@ Let's collect here talks, slides, brainstorming decks or whatever we are working
 - Proposal: [Open Source Design: Usable Freedom](/Chaos_Communication_Camp_2015.md)
 - Status: Submitted by @jancborchardt @bnvk
 
----
 
 ## Talks Given
 
