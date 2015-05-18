@@ -3,9 +3,22 @@ Talks
 
 Let's collect here talks, slides, brainstorming decks or whatever we are working on or we did publicly.
 
-## Talks
+## Submissions
+
+### Chaos Communication Camp - August 13th – 17th, 2015
+
+- Event: [webiste](http://events.ccc.de/2015/04/09/call-for-participation-chaos-communication-camp-2015/)
+- Submission: [website](https://frab.cccv.de/en/camp2015/cfp/session/new)
+- Brainstorming: [ideas for presentation](http://piratepad.net/osd-goes-campin-2015)
+- Proposal: [Open Source Design: Usable Freedom](/Chaos_Communication_Camp_2015.md)
+- Status: Submitted by @jancborchardt @bnvk
+
+---
+
+## Talks Given
 
 ### Open Tech Summit - 14th May, 2015 
-http://opentechsummit.net/
 
-Status: brainstorming ideas for the application http://m18.uni-weimar.de/pad/p/techsummittalk
+- Event: [website](http://opentechsummit.net)
+- Brainstorming: [ideas for the application](http://m18.uni-weimar.de/pad/p/techsummittalk)
+- Status: talk was given by @jdittrich (need slides)
